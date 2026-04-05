@@ -2,7 +2,6 @@
 
 /******************<Dependencies>*****************/
 #include "control/RemoteXY_control.h"
-#include <stdint.h>
 /******************</Dependencies>*****************/
 
 

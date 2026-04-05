@@ -25,7 +25,6 @@ void init_rover_i2c(void){
         return;
 }
 
-
 /*******i2c_read_esp32*******
  * Description
         > read data from ESP32 which outputs data from RemoteXY app

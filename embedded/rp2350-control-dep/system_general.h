@@ -65,12 +65,4 @@
 #define I2C_SCL                 17
 /******************</GPIO Definitions>*****************/
 
-
-
-/******************<Functions>*****************/
-uint8_t read_digit_serial(void);
-void runMenu(void);
-/******************</Functions>*****************/
-
-
 #endif // SYSTEM_GENERAL_H
